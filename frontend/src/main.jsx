@@ -8,3 +8,7 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+
+// file that sends the react code to html?
+// cast the react code onto the html code
+
